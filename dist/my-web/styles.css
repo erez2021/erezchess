@@ -66,7 +66,7 @@ html {
   text-align: center;
   margin-left: 120px;
   color: #fff;
-  background-image: linear-gradient(to top right, #322d5f, #0f0f0f);
+  background-image: linear-gradient(to top right, #1d1a38, #0f0f0f);
   height: 100%;
 }
 .page-container {
@@ -74,7 +74,7 @@ html {
   text-align: center;
   margin-left: 120px;
   color: #fff;
-  background-image: linear-gradient(to top right, #322d5f, black);
+  background-image: linear-gradient(to top right, #1d1a38, black);
   min-height: 1100px;
 }
 .title {
